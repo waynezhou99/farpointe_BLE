@@ -8,7 +8,7 @@ public class Decoder implements Runnable
 	
 	public static void main(String[] ap) 
 	{
-	    // schedule this for the event dispatch thread (edt)  //testing
+	    // schedule this for the event dispatch thread (edt)  //testing  testingtestingtestingtestingtesting
 	    SwingUtilities.invokeLater(new Decoder());
 	}
 
